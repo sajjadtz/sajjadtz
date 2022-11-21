@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sajjad</h1>
-<h3 align="center">I’m a Full-Stack Software Engineer in Iran with more than 5 years of experience working in small and large projects and programming and startup companies</h3>
+<h3 align="center">I’m a Full-Stack Software Engineer</h3>
 
 - 🔭 I’m currently working in **Ava Pardaz Keyhan Kariman**
+
+- 🧑🏻‍💻 I have more than 5 years of experience **working in small and large projects and programming and startup companies**
 
 - 📫 How to reach me **sajjadtabibzadeh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sajjad tabibzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjad tabibzadeh" height="30" width="40" /></a>
+<a href="https://github.com/sajjadtz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="sajjadtz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sajjad-tabibzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajjad-tabibzadeh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
