@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajjad</h1>
 <h3 align="center">I’m a Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working in **Ava Pardaz Keyhan Kariman**
-
 - 🧑🏻‍💻 I have more than 5 years of experience **working in small and large projects and programming and startup companies**
 
 - 📫 How to reach me **sajjadtabibzadeh@gmail.com**
